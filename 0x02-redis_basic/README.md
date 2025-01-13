@@ -210,3 +210,10 @@ Tip: Use `http://slowwly.robertomurray.co.uk` to simulate a slow response and te
 Bonus: implement this use case with decorators.
 
   * [web.py](./web.py)
+
+## Additional Project Resources
+
+  * [Redis Crash Course Tutorial](https://www.youtube.com/watch?v=Hbt56gFj998)
+  * [Redis commands](https://redis.io/docs/latest/commands/)
+  * [Redis python client](https://redis-py.readthedocs.io/en/stable/)
+  * [How to Use Redis With Python](https://realpython.com/python-redis/)
