@@ -148,6 +148,7 @@ Write a SQL script that ranks country origins of bands, ordered by the number of
 **Requirements:**
 
   * Import this table dump: metal_bands.sql.zip
-  * Column names must be: origin and nb_fans
-Your script can be executed on any database
-Context: Calculate/compute something is always power intensive… better to distribute the load!
+  * Column names must be: `origin` and `nb_fans`
+  * Your script can be executed on any database
+
+**Context:** *Calculate/compute something is always power intensive… better to distribute the load!
