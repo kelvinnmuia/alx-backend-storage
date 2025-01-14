@@ -171,3 +171,5 @@ The Netherlands 8819
 Italy   7178
 bob@dylan:~$ 
 ```
+
+  * [2-fans.sql](./2-fans.sql)
