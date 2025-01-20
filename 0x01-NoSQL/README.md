@@ -66,6 +66,7 @@ local   0.000GB
 bye
 $
 ```
+## Tasks :page_with_curl:
 
 **0. List all databases**
 
