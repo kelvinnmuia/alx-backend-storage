@@ -16,7 +16,7 @@ The repository covers key backend storage concepts, including:
 
 The projects in this repository progressively build expertise in backend storage technologies:
 
-**Back-end - Storage**
+## Back-end - Storage
 
   * [0x00. MySQL advanced](./0x00-MySQL_Advanced)
   * [0x01. NoSQL](./0x01-NoSQL)
